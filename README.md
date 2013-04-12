@@ -11,6 +11,8 @@ You'll see a function call to googleAnalytics():
 
 Populate this with your email address and password you use for Google Analytics and then replace [ID OF THE PROFILE YOU ARE DISPLAYING FROM GA] with the profile ID for the site you wish to view.
 
+Then add the URL to your statusboard and you will start seeing Visits and Page Views displayed pretty quickly..
+
 ### To get your profile ID,
 
 Log in to your google analytics account and click the site you want to generate a report for.
