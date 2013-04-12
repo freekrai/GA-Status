@@ -21,6 +21,6 @@ In the URL you will see:
 		
 		https://www.google.com/analytics/web/?#report/visitors-overview/a123456w7890pMORENUMBERS/
 
-	Grab the numbers after the p in the URL, represented here by MORENUMBERS and copy that into the function below, so it would be
+Grab the numbers after the p in the URL, represented here by MORENUMBERS and copy that into the function below, so it would be:
 
 		googleAnalytics("YOUR EMAIL ADDRESS","YOUR PASSWORD",'ga:MORENUMBERS');
