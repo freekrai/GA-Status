@@ -3,7 +3,7 @@ GA-Status
 
 Google Analytics code to output a graph for use with Panic's StatusBoard iPad app
 
-Upload the files to your server, and open up index.php
+Upload the files to your server, create a writable "_cache" folder (inside the folder you just uploaded the files to) and open up index.php
 
 You'll see a function call to googleAnalytics():
 
@@ -11,7 +11,7 @@ You'll see a function call to googleAnalytics():
 
 Populate this with your email address and password you use for Google Analytics and then replace [ID OF THE PROFILE YOU ARE DISPLAYING FROM GA] with the profile ID for the site you wish to view.
 
-Then add the URL to your statusboard and you will start seeing Visits and Page Views displayed pretty quickly..
+Then add the URL to your statusboard *Graph Widget* and you will start seeing Visits and Page Views displayed pretty quickly..
 
 ### To get your profile ID,
 
